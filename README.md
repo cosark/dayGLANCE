@@ -21,6 +21,7 @@ Part of the **GLANCE family**: focused, standalone apps connected through a shar
 - [Quick Start](#quick-start)
   - [Try it now](#try-it-now)
   - [Self-host with Docker](#self-host-with-docker)
+  - [One-Click Deploy](#one-click-deploy)
   - [Build from Source](#build-from-source)
   - [Desktop App](#desktop-app)
 - [Android App](#android-app)
@@ -116,6 +117,10 @@ dayglance.yourdomain.com {
     reverse_proxy localhost:6767
 }
 ```
+
+### One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/dayGLANCE/)
 
 ### Build from Source
 
